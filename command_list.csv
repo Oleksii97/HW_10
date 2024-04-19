@@ -1,0 +1,117 @@
+    1  cd 
+    2  cd 
+    3  cd Desctop
+    4  cd '/c/Users/lexa-.ACEROLEKSII/OneDrive/Рабочий стол/QA35'
+    5  clear
+    6  pwd
+    7  ls -l
+    8  touch file.txt
+    9  ls -l
+   10  vim text.txt
+   11  ls -l
+   12  clear
+   13   vim text.txt
+   14  cat text.txt
+   15  cat test.txt
+   16   vim text.txt
+   17  cat test.txt
+   18  cat text.txt
+   19  clear
+   20  mkdir Alek
+   21  ls -l
+   22  cp text.txt Alek/
+   23  ls -l
+   24  cd Alek
+   25  ls -l
+   26  rm file.txt
+   27  ../
+   28  ..
+   29  ../
+   30  cd ../
+   31  rm file.txt
+   32  ls -l
+   33  clear
+   34  ping google.com
+   35  date
+   36  systeminfo
+   37  clear
+   38  cd Alek
+   39  ATTRIB<r>text.txt
+   40  attrib +r text.txt
+   41  vim text.txt
+   42  '/c/Users/lexa-.ACEROLEKSII/OneDrive/Рабочий стол/QA35'
+   43  cd '/c/Users/lexa-.ACEROLEKSII/OneDrive/Рабочий стол/QA35'
+   44  cd Alek
+   45  ls -l
+   46  '/c/Users/lexa-.ACEROLEKSII/OneDrive/Рабочий стол/QA35'
+   47  cd '/c/Users/lexa-.ACEROLEKSII/OneDrive/Рабочий стол/QA35'
+   48  git clone [200~https://github.com/Oleksii97/GitQA35.git~
+   49  git clone https://github.com/Oleksii97/GitQA35.git
+   50  GitQA35
+   51  GitQA35
+   52  cd GItQA35
+   53  git config --global user.name "Oleksii Kudriavtsev"
+   54  gti config --globaluser.email "kudriavtsevalek.pl97@gmail.com"
+   55  git config --global user.emal "kudriavtsevalek.pl97@gmail.com"
+   56  touch fiile.txt
+   57  git status
+   58  git add fiile.txt
+   59  git status
+   60  git commit -m "First commit"
+   61  git push
+   62  clear
+   63  git branch
+   64  git cheackout -b test
+   65  git checkout -b test
+   66  git branch
+   67  touch test.txt
+   68  git status
+   69  git add test.txt
+   70  git status
+   71  git commit -m "Second commit"
+   72  git checkout main
+   73  git marge text
+   74  git marge test
+   75  git merge test
+   76  git push
+   77  cd '/c/Users/lexa-.ACEROLEKSII/OneDrive/Рабочий стол/QA35'
+   78  git clone 200~https://github.com/Oleksii97/HW_10.git
+   79  git clone https://github.com/Oleksii97/HW_10.git
+   80  cd HW_10
+   81  git config --global user.name "Oleksii Kudriavtsev"
+   82  git config --global user.email "kudriavtsevalek.pl97@gmail.com"
+   83  touch text_ignore.txt
+   84  cat .gitignor
+   85  cat text_ignor.txt
+   86  cat ".gitignor.txt"
+   87  vim .gitignore.txt
+   88  statusinfo
+   89  git status
+   90  git add *
+   91  git status
+   92  git commit -m"First commit"
+   93  touch main_test.txt
+   94  git add *
+   95  git status
+   96  git commit "Secend commit"
+   97  git commit -m"Second commit"
+   98  cd '/c/Users/lexa-.ACEROLEKSII/OneDrive/Рабочий стол/QA35'
+   99  cd HW_10
+  100  git checkout -b develop
+  101  git branch
+  102  touch develop_test.txt
+  103  git add*
+  104  git add *
+  105  git status
+  106  git commit "Third commit"
+  107  git commit -b "Third commit"
+  108  git commit -m "Third commit"
+  109  vim develop_test.txt
+  110  git status
+  111  git add *
+  112  git status
+  113  git commit -m "Fourth commit"
+  114  git checkout main
+  115  git merge develop
+  116  git log
+  117  history>command_list.csv
